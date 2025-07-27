@@ -1,0 +1,36 @@
+{
+  "name": "MyLittleBank - Kids Money Tracker",
+  "short_name": "MyLittleBank",
+  "description": "A fun and engaging chore tracking app for kids to earn money, set savings goals, and learn financial responsibility.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF2F8",
+  "theme_color": "#F8BBD0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "finance", "kids"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjU2OCIgdmlld0JveD0iMCAwIDMyMCA1NjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iNTY4IiBmaWxsPSIjRjJGMkY3Ii8+CjxyZWN0IHg9IjE2IiB5PSIxNiIgd2lkdGg9IjI4OCIgaGVpZ2h0PSI4MCIgcng9IjE2IiBmaWxsPSJ3aGl0ZSIvPgo8dGV4dCB4PSIzMiIgeT0iNDAiIGZpbGw9IiMzMzMzMzMiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiPkNob3JlV2FsbGV0PC90ZXh0Pgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZpbGw9IiMzNEM3NTkiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPiQyNC41MDwvdGV4dD4KPC9zdmc+",
+      "sizes": "320x568",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
